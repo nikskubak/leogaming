@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00001a</color>
+    <color name="colorPrimaryDark">#000001</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bottom_navigation">#32323c</color>
+    <color name="wallet_gradient_start">#422ecb</color>
+    <color name="wallet_gradient_finish">#f8034e</color>
+    <color name="wallet_phone">#26ffffff</color>
+    <color name="list_icon">#eff2f7</color>
+    <color name="wallet_text_color">#e1bff9</color>
+    <color name="top_up_gradient_start">#3a3a46</color>
+    <color name="top_up_gradient_finish">#25232e</color>
+    <color name="search_view_color">#eef3f6</color>
+    <color name="divider">#e9e9e9</color>
+
+    <color name="text_primary">#302f34</color>
+    <color name="text_secondary">#979797</color>
+</resources>

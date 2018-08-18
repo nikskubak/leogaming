@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LeoGaming Test</string>
+    <string name="wallet">Кошелёк</string>
+    <string name="bonuses">Бонусы</string>
+    <string name="history">История</string>
+    <string name="profile">Профиль</string>
+    <string name="leowallet">LeoWallet</string>
+    <string name="top_up">Пополнить</string>
+    <string name="withdraw">Вывести</string>
+    <string name="search_hint">Поиск услуг и получателей</string>
+    <string name="transfer_money">Перевести \nденьги</string>
+    <string name="pay_service">Оплатить \nуслуги</string>
+    <string name="bill">Выставить \nсчёт</string>
+    <string name="favorites">Избранное</string>
+    <string name="last">Последние</string>
+    <string name="transfer_money_description">Вы можете перевести средства в любую точку мира</string>
+    <string name="pay_service_description">Вы можете оплатить множество услуг</string>
+    <string name="bill_description">Вы можете без труда выставить счёт</string>
+    <string name="top_up_description">Пополняйте счёт без комиссий в лубом терминале</string>
+    <string name="withdraw_description">Выводите средства в любое время</string>
+    <string name="dev_description">Данный раздел находится в разработке</string>
+    <string name="your_balance">Ваш баланс</string>
+</resources>

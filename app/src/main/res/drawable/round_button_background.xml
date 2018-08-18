@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:startColor="@color/top_up_gradient_start"
+        android:endColor="@color/top_up_gradient_finish"
+        android:angle="0">
+    </gradient>
+
+    <size
+        android:width="@dimen/wallet_button_size"
+        android:height="@dimen/wallet_button_size"/>
+
+</shape>
